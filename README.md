@@ -26,7 +26,7 @@ Welcome to my corner of GitHub, where curiosity meets code!
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glowedjelly&show_icons=true&theme=github_dark" alt="glowedjelly's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=glowedjelly&show_icons=true&theme=github_dark" alt="glowedjelly's GitHub stats 1" />
 </p>
 
 ---
